@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "WanteD! WanteD!",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T13:29:57.035476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WanteD! WanteD!",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_WanteD!_WanteD!_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WanteD! WanteD! - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_WanteD!_WanteD!_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WanteD! WanteD! - KERENMI Remix",
+      "artist": "Mrs. GREEN APPLE, KERENMI",
+      "has_synced": false,
+      "path": "select/03_WanteD!_WanteD!_-_KERENMI_Remix_Mrs._GREEN_APPLE,_KERENMI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WanteD! WanteD!",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_WanteD!_WanteD!_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wanted Wanted",
+      "artist": "Oscar Anton",
+      "has_synced": true,
+      "path": "select/05_Wanted_Wanted_Oscar_Anton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wanted Wanted (Stripped)",
+      "artist": "Oscar Anton",
+      "has_synced": false,
+      "path": "select/06_Wanted_Wanted_(Stripped)_Oscar_Anton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wanted! Wanted! (KERENMI Remix)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/07_Wanted!_Wanted!_(KERENMI_Remix)_Mrs._Green_Apple.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WanteD! WanteD!",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_WanteD!_WanteD!_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
